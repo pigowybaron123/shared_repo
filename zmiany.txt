@@ -1,2 +1,2 @@
-Moja zmiana przez Git Bash
+Moja zmiana przez Git Bash.
 Druga zmiana przez VS Konrad Archacki
